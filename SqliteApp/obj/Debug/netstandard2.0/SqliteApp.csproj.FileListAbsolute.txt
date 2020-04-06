@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\bin\Debug\netstandard2.0\SqliteApp.deps.json
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\bin\Debug\netstandard2.0\SqliteApp.dll
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\SqliteApp.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\SqliteApp.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\SqliteApp.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\bin\Debug\netstandard2.0\ref\SqliteApp.dll
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\bin\Debug\netstandard2.0\SqliteApp.pdb
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\Views\Adicionar.xaml.g.cs
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\SqliteApp.dll
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\ref\SqliteApp.dll
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\SqliteApp.pdb
+C:\Users\Pichau\source\repos\SqliteApp\SqliteApp\SqliteApp\obj\Debug\netstandard2.0\Views\Listar.xaml.g.cs
